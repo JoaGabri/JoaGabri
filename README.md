@@ -4,7 +4,7 @@ Meu negocio é resolver Problemas e usar minha criatividade.
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" />
+<img align="right" width="270" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" />
 
 ```kotlin
 object **joa** {
